@@ -2,7 +2,7 @@ package org.launchcode.techjobs_oo;
 
 import java.util.ArrayList;
 
-/*public class Main {
+public class Main {
 
     public static void main(String[] args) {
         Job job1 = new Job("Product tester", new Employer("ACME"), new Location("Desert"), new PositionType("Quality control"), new CoreCompetency("Persistence"));
@@ -18,4 +18,4 @@ import java.util.ArrayList;
       }
    }
 
-}*/
+}
